@@ -1,8 +1,8 @@
 ## Hi, I’m Gulshan 👋
 
 I’m a computer applications student with a strong interest in software engineering
-and problem-solving. I enjoy building small but complete programs that focus on
-clean logic, readability, and correct handling of edge cases.
+and problem-solving. I enjoy building small but complete programs with a focus on
+clean logic, readable code, and handling edge cases correctly.
 
 ### 🛠️ Skills
 - C++ (core logic, modular design, expression parsing)
