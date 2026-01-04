@@ -1,2 +1,28 @@
-# tooweirdg
-Personal GitHub profile and portfolio projects
+## Hi, I’m Gulshan 👋
+
+I’m a computer applications student with a strong interest in software engineering
+and problem-solving. I enjoy building small but complete programs that focus on
+clean logic, readability, and correct handling of edge cases.
+
+### 🛠️ Skills
+- C++ (core logic, modular design, expression parsing)
+- Python (CLI programs, input handling)
+- Data structures and algorithms (basics)
+- Git & GitHub (version control, clean repositories)
+
+### 📌 Projects
+- **MiniCalculator (C++)**  
+  A command-line calculator that evaluates mathematical expressions using a
+  recursive descent parser with proper operator precedence and error handling.
+
+- **Number Guessing Game (Python, C++)**  
+  A simple CLI game implemented in multiple languages to practice control flow,
+  input validation, and clean code structure.
+
+### 🎯 What I’m Looking For
+Eager to contribute to real-world projects while gaining hands-on experience in
+
+📫 Open to internships, apprenticeships, and entry-level software roles.
+
+software engineering, problem-solving, and building well-structured,
+maintainable code.
