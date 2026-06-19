@@ -1,28 +1,92 @@
-## Hi, I’m Gulshan 👋
+# Hi, I'm Gulshan Kumar 👋
 
-I’m a computer applications student with a strong interest in software engineering
-and problem-solving. I enjoy building small but complete programs with a focus on
-clean logic, readable code, and handling edge cases correctly.
+Backend-focused Python developer building API-driven systems with FastAPI, PostgreSQL, Redis, Docker, and AWS.
 
-### 🛠️ Skills
-- C++ : (core logic, modular design, expression parsing)
-- Python : (CLI programs, input handling)
-- Data structures and algorithms (basics)
-- Git & GitHub : (version control, clean repositories)
+Currently pursuing a BCA while developing production-style backend projects focused on distributed systems, observability, asynchronous processing, and cloud deployment.
 
-### 📌 Projects
-- **MiniCalculator (C++)**  
-  A command-line calculator that evaluates mathematical expressions using a
-  recursive descent parser with proper operator precedence and error handling.
+---
 
-- **Number Guessing Game (Python, C++)**  
-  A simple CLI game implemented in Python (with a C++ version) to practice control flow,
- input validation, and clean code structure.
+## 🚀 Current Focus
 
-### 🎯 What I’m Looking For
-Eager to contribute to real-world projects while gaining hands-on experience in
+* Backend Engineering
+* FastAPI & Python
+* PostgreSQL
+* Redis & Celery
+* Docker
+* Cloud Deployment (AWS)
+* System Design Fundamentals
 
-📫 Open to internships, apprenticeships, and entry-level software roles.
+---
 
-software engineering, problem-solving, and building well-structured,
-maintainable code.
+## 🛠 Tech Stack
+
+### Languages
+
+* Python
+* SQL
+* C++
+
+### Backend
+
+* FastAPI
+* Flask
+* REST APIs
+* SQLAlchemy
+
+### Databases
+
+* PostgreSQL
+* SQLite
+
+### Infrastructure
+
+* Docker
+* Redis
+* Celery
+* Linux
+* AWS EC2
+
+### Tools
+
+* Git
+* GitHub
+* GitHub Actions
+
+---
+
+## 📌 Featured Projects
+
+### LogSleuth
+
+Asynchronous log ingestion and analysis platform.
+
+Features:
+
+* FastAPI API
+* PostgreSQL persistence
+* Redis broker
+* Celery workers
+* Prometheus metrics
+* Health monitoring
+* CI/CD pipeline
+* Docker deployment
+* 31 automated tests
+
+Repository:
+https://github.com/toweirdg/log-sleuth
+
+---
+
+## 📈 Currently Learning
+
+* Distributed Systems
+* Cloud Architecture
+* System Design
+* MLOps Foundations
+
+---
+
+## 📫 Connect
+
+* GitHub: https://github.com/toweirdg
+* LinkedIn: https://linkedin.com/in/glshankrtoowd
